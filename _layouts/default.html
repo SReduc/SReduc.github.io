@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
+
+<head>
+    <title> {{ page.title }} </title> <!-- Lets Jekyll dynamically change titel-->
+    <link rel="stylesheet" href="css/cmpstyles.css" type="text/css">
+</head>
+<body>
+    <div id="wrapper">
+	<div id="banner"><h1>Sarah Rowe's Classroom</h1></div>
+	<div id="menu">
+      		<a class="item" href="index.php">Home</a> |
+        	<a class="item" href="ClassInfo.php">Class Info</a> |
+        	<a class="item" href="About.php">About Sarah</a>
+        	<!--<div id="userbar"></div>-->
+    		</div>
+	<div id="content">
+  
+  {{ content }} <!-- Lets Jekyll dynamically add in page content-->
+  
+  </div><!-- content -->
+</div><!-- wrapper -->
+<div id="footer">Updated:</div>
+</body>
+</html>
