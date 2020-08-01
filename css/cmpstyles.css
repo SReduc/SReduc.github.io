@@ -101,8 +101,8 @@ h3 {margin: 0; padding: 0;}
     text-decoration: underline;
     list-style:none;
 }
-.submenu ul {display:none;}
-.submenu li:hover ul {display:block;}
+.item ul {display:none;}
+.item li:hover ul {display:block;}
  
 .leftpart {
     width: 70%;
