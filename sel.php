@@ -1,0 +1,32 @@
+---
+layout: default
+title: Social and Emotional Learning
+---
+
+<h3>Self-Awareness</h3>
+<p>Students will fill out self-assessment worksheets on recent content. These won’t be graded, but will let the students keep track of where they are.
+</p>
+<p>In some situations students will be given the option to complete work in different ways (independent, group, at desks, at library…). We will discuss different learning styles and students are encouraged to keep track of what works best for them.
+</p>
+
+<h3>Self-Management</h3>
+<p> When you notice that you are feeling upset:</p>
+<ol>
+  <li> Be gentle with yourself. It is ok to feel strong emotions, and it is ok to take a while to get a handle on them
+  </li>
+  <li> A) Take a break. Go get a drink or take a short walk around the building or
+     <ul><li> go sit in the quiet corner or
+     </li>
+     <li>tell Sarah that you are going to go to the counselor or
+     </li>
+    <li>work out with Sarah another place you would like to go to
+    </li></ul></li>
+  <li>Work through your emotions, in whatever safe way works for you. For example, you can use some of the worksheets in the quiet corner (https://www.psychologytools.com/resource/cbt-thought-record/), do activities with the counselor, draw, walk, etc.
+  </li></ol>
+<p>When you find yourself feeling calmer, come back and join in class!
+</p>
+
+
+<h3>Responsible Decision Making</h3>
+<p>Stop, Think, Decide</p>
+<p>Talking through consequences</p>
