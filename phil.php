@@ -1,0 +1,17 @@
+---
+layout: default
+title: Teaching Philosophy
+---
+<h3>My Philosophy</h3>
+<p>I've been interested in science since I was a little kid driving my parent crazy as I read every single sign in the Monterey Bay Aquarium in California. I'm most drawn to the practice of the old-fashioned naturalists, who spent their time observing and recording the world around them. This interest lead me through a B.S. in Biology and a minor in Astrophysics. Since then I've worked in a variety of fields, from teaching video game design to furniture stripping. I write speculative fiction and play the piano, and when I have time I find a place to sit outside and watch the world unfold before me.
+</p>
+<p>My number one priority as a teacher is keeping students safe. This has to happen before any learning can be done. You can’t learn if there’s danger of a fight. You can’t learn if you are scared to speak to your classmates. You can’t learn if every time you’re stressed you go to ISS. I can’t control what students have going on in their lives, but I can make sure that our classroom is a calm, safe space for them to spend the time we have together.
+</p>
+<p>So in my classroom we are strict about no roughhousing, no throwing things, and being respectful towards each other. My door is open during lunch and after school if a student needs to talk with me about a problem with class or with another student or staff member. I keep in touch with the school counselor so we can work together if I need help mediating between students or if a student needs help managing their emotions or other life issues.
+</p>
+<p>In my classroom we have a “calm corner,” which is a couple of big comfy chairs set off from the rest of the room with low bookshelves. Sometimes it is just another place to do independent work; but it also serves as a separate place for students to go when they need to tap out. If a student is feeling too upset to work, they can take a break in a comforting spot. When I have a moment, I join them there and try to talk through what they have going on. Respect is a two-way street, and I take my students seriously.
+</p>
+<p>This leads into another important part of my classroom, which is autonomy. If there is one thing students get from my science class, I want it to be how to think and reason for themselves. To this end, I give students as much ownership of the classroom as I can while still keeping people safe and making sure we cover the necessary curriculum. This starts on the first day of class, where we set expectations together – not just my expectations for them, but their expectations for me and for each other. While I have a few key points I will make sure we cover, the students come up with the classroom rules. The classroom is arranged with desks in a circle (well, a squared oval shape because we need room to move between desks and still fit it in the classroom) with students facing each other and my desk as just one part of the circle. When students are able to take charge during classroom discussions I fall back into a moderator roll.
+</p>
+<p>Class projects are designed to let students follow their own interests while still learning key concepts. I hand students the tools, but they do their own research and design their own experiments. At the end of the year, students should have mastered state science standards; but more importantly, they should have learned techniques for finding and evaluating information that they will use throughout their lives.
+
