@@ -28,23 +28,24 @@ body {
 }
  
 #menu {
-    float: center;
     border: none;
     border-bottom: none;        /* avoid a double border */
     clear: both;                /* clear:both makes sure the content div doesn't float next to this one but stays under it */
-    width:100%;
     height:100%;
     padding: 10px 0;
-    background-color: #b3d1ff;
     text-align: center;
     font-size: 85%;
-
+	float:right;
+	position:relative;
+	left:-50%;
 }
  
 #menu a:hover {
     background-color: white;
 }
  
+#menu ul {list-style:none; padding:0;}
+
 #userbar {
     background-color: #fff;
     float: right;
@@ -98,12 +99,17 @@ h3 {margin: 0; padding: 0;}
     color: black;
     font-family: Arial;
     padding: 0px 0px;
-    text-decoration: underline;
-    list-style:none;
+    text-decoration: none;
 }
-.item ul {display:none;}
-.item li:hover ul {display:block;}
- 
+.topmenu {float:left; position:relative; left:50%}
+.topmenu li {float:left; position:relative; display:block;}
+.topmenu li a {display:block; padding:1em;} /*adds space between items*/
+.topmenu li ul {position:absolute; width:auto;} /*Stops menu elements from moving when subemnu revealed*/
+.topmenu li li {
+	display:none; /*Hides submenu*/
+	float:none;} /*undoes left float from .topmenu li, so the submenu is in a column*/
+.topmenu li:hover li {display:block;} /*shows submenu when title block selected*/
+
 .leftpart {
     width: 70%;
 }
