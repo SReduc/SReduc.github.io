@@ -56,6 +56,10 @@ body {
     clear: both;
 }
  
+/*Begin image styles*/
+
+.rtfloat {float:right;}
+
 /* begin table styles */
 table {
     border-collapse: collapse;
