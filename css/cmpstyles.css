@@ -58,7 +58,11 @@ body {
  
 /*Begin image styles*/
 
-.rtfloat {float:right;}
+.rtfloat {float:right;
+	padding:5px;}
+
+.lffloat {float:left;
+	padding:5px;}
 
 /* begin table styles */
 table {
