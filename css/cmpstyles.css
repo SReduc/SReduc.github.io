@@ -58,7 +58,7 @@ body {
 
 .rtSideBar {
 	float:right;
-	border: 3px;
+	border: 3px solid;
 	border-color: green;
 	width:200px;
 	padding:5px;
