@@ -55,6 +55,12 @@ body {
 #footer {
     clear: both;
 }
+
+.rtSideBar {
+	float:right;
+	border: 3px green;
+	width:200px;
+}
  
 /*Begin image styles*/
 
