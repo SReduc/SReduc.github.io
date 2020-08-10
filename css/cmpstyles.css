@@ -58,8 +58,10 @@ body {
 
 .rtSideBar {
 	float:right;
-	border: 3px green;
+	border: 3px;
+	border-color: green;
 	width:200px;
+	padding:5px;
 }
  
 /*Begin image styles*/
