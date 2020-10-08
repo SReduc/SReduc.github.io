@@ -125,6 +125,7 @@ h3 {margin: 0; padding: 0;}
 	display:none; /*Hides submenu*/
 	float:none;} /*undoes left float from .topmenu li, so the submenu is in a column*/
 .topmenu li:hover li {display:block;} /*shows submenu when title block selected*/
+.topmenu li:hover li li {display:none;} /*keeps sub-submenu hidden when title block selected*/
 .topmenu li li li{
 	display:none; /*Hides sub-submenu*/
 	float:none;} /*undoes left float from .topmenu li, so the submenu is in a column*/
