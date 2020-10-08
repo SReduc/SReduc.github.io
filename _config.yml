@@ -1,2 +1,9 @@
 name: Sarah Rowe's Teaching Website
 markdown: kramdown
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # Apply to site pages, not css files etc
+    values:
+      layout: "default"
